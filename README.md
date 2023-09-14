@@ -71,6 +71,8 @@ Once a sparse branching rule, e.g. glmnet_lasso, is learned, and a model file is
 
 In line 5 of `branching/test-methods/CMakeLists.txt`, set SCIP_DIR to `/Path/to/branching-env/lib/cmake/scip` 
 
+`mkdir branching/test-methods/build`
+
 `cd branching/test-methods/build`
 
 `cmake .. -DCMAKE_BUILD_TYPE=Release`
