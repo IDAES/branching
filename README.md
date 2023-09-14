@@ -9,7 +9,7 @@ Python package to build sparse regression models of strong branching and use the
 
 ### Copyright
 
-Copyright (c) 2023, Selin Bayramoglu
+Please see COPYRIGHT.md .
 
 
 #### Acknowledgements
