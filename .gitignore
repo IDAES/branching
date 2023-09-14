@@ -107,6 +107,3 @@ ENV/
 
 # In-tree generated files
 */_version.py
-
-# Do not track ecole for now
-ecole/

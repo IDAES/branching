@@ -1,0 +1,45 @@
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # C++ build tools
+  - make
+  - cmake>=3.15
+  # C++ build time dependencies
+  - xtensor
+  - cxx-compiler
+  - xsimd
+  - fmt
+  # C++ runtime dependencies
+  - scip=8
+  # Build time Python dependencies
+  - python>=3.6
+  - pybind11>=2.7
+  - numpy>=1.4
+  - xtensor-python
+  - scikit-build
+  - build
+
+  # Documentation
+  - doxygen
+  - sphinx = 4.4
+  - breathe>=4.15
+  - sphinx_rtd_theme
+
+  # General dev tools
+  - pre-commit
+  # C++ dev tools
+  - clang-tools=11
+  - ccache
+  - catch2 < 3.0
+  - cli11
+  # Python dev tools
+  - pip
+  - pytest
+  - pytest-helpers-namespace
+  - black
+  - ipython
+  - pyscipopt >= 3.0.1  # optional
+  - twine
+  - papermill

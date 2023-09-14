@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+
+set -o errexit   # Fail script on errors
+set -o nounset   # Fail on empty variables
+set -o pipefail  # Error if error in pipe
+
+# Directory of this file
+__DIR__="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# St on Dockerhub but this and the CWD seem to be unreliable
+DOCKERFILE_DIR="${__DIR__}/.."
+# Set on DockerHub but set default value to use script locally
+DOCKER_REPO="${DOCKER_REPO:-ecoleai/ci}"
+
+for python_version in "3.7" "3.8" "3.9" "3.10"; do
+
+	# Source images with given compiler
+	for compiler in "gcc9" "clang10" ; do
+		extra_args=()
+		# If using clang, compile with LLVM libc++ because the given libstd++ does not fully support C++17.
+		# FIXME libstdc++ should just be updated (because libc++ does not fully support C+=17), but
+		# somehow the add-apt-repository hangs .
+		if [[ "${compiler}" = clang* ]]; then
+			extra_args+=(--build-arg CXXFLAGS="-stdlib=libc++" --build-arg LDFLAGS="-lc++abi")
+		fi;
+		docker build \
+			--file "${DOCKERFILE_DIR}/Dockerfile.src" \
+			--build-arg python_version="${python_version}" \
+			--build-arg compiler="${compiler}" \
+			"${extra_args[@]+"${extra_args[@]}"}" \
+			--tag "${DOCKER_REPO}-linux-src-${compiler}-py${python_version}:${DOCKER_TAG:-latest}" "${DOCKERFILE_DIR}"
+	done
+
+done
