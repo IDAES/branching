@@ -1,0 +1,2059 @@
+Seed: 0
+
+1 Gamma = 10 Lambda = 0.0107515 Nonzeros: 0
+Train MSE: 0.00569427358943765 Train R2: 0
+Valid MSE: 0.00579996665217405 Valid R2: -4e-04
+
+2 Gamma = 10 Lambda = 0.010644 Nonzeros: 1
+Train MSE: 0.00545521581471385 Train R2: 0.042
+Valid MSE: 0.00554442042768798 Valid R2: 0.0437
+
+Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+3 Gamma = 10 Lambda = 0.0101363 Nonzeros: 1
+Train MSE: 0.00545521581471385 Train R2: 0.042
+Valid MSE: 0.00554442042768798 Valid R2: 0.0437
+
+Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+4 Gamma = 10 Lambda = 0.00810905 Nonzeros: 3
+Train MSE: 0.00506985560491147 Train R2: 0.1097
+Valid MSE: 0.00515703936087186 Valid R2: 0.1105
+
+Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+5 Gamma = 10 Lambda = 0.00786578 Nonzeros: 3
+Train MSE: 0.00506985420557516 Train R2: 0.1097
+Valid MSE: 0.00515703786327819 Valid R2: 0.1105
+
+Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+6 Gamma = 10 Lambda = 0.00629263 Nonzeros: 6
+Train MSE: 0.00465375355879711 Train R2: 0.1827
+Valid MSE: 0.00471835585094742 Valid R2: 0.1862
+
+Features:  N_20_solution_infeasibility:N_27_obj_cos_sim_mean 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_20_solution_infeasibility:K_49_active_coef_weight1_count 
+7 Gamma = 10 Lambda = 0.00610385 Nonzeros: 6
+Train MSE: 0.00465375504852398 Train R2: 0.1827
+Valid MSE: 0.00471835739948515 Valid R2: 0.1862
+
+Features:  N_20_solution_infeasibility:N_27_obj_cos_sim_mean 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_20_solution_infeasibility:K_49_active_coef_weight1_count 
+8 Gamma = 10 Lambda = 0.00488308 Nonzeros: 10
+Train MSE: 0.00425982537851673 Train R2: 0.2519
+Valid MSE: 0.00431573767253361 Valid R2: 0.2556
+
+Features:  N_1_objective:N_20_solution_infeasibility 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_24_bias_mean 
+ Features:  N_20_solution_infeasibility:N_27_obj_cos_sim_mean 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_5_rows_deg_mean 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_20_solution_infeasibility:K_49_active_coef_weight1_count 
+9 Gamma = 10 Lambda = 0.00473659 Nonzeros: 11
+Train MSE: 0.00417621028541975 Train R2: 0.2666
+Valid MSE: 0.00423085672691389 Valid R2: 0.2703
+
+10 Gamma = 10 Lambda = 0.00459449 Nonzeros: 11
+Train MSE: 0.00417621628613452 Train R2: 0.2666
+Valid MSE: 0.00423086292859619 Valid R2: 0.2703
+
+11 Gamma = 10 Lambda = 0.00367559 Nonzeros: 14
+Train MSE: 0.0039943235571519 Train R2: 0.2985
+Valid MSE: 0.00404439512911929 Valid R2: 0.3024
+
+12 Gamma = 10 Lambda = 0.00356532 Nonzeros: 15
+Train MSE: 0.00393574716525374 Train R2: 0.3088
+Valid MSE: 0.00397205990792343 Valid R2: 0.3149
+
+13 Gamma = 10 Lambda = 0.00345836 Nonzeros: 16
+Train MSE: 0.00387707753944059 Train R2: 0.3191
+Valid MSE: 0.00391215934037003 Valid R2: 0.3252
+
+14 Gamma = 10 Lambda = 0.00335461 Nonzeros: 16
+Train MSE: 0.00387709188515643 Train R2: 0.3191
+Valid MSE: 0.00391217425175769 Valid R2: 0.3252
+
+15 Gamma = 10 Lambda = 0.00268369 Nonzeros: 22
+Train MSE: 0.00361229153750194 Train R2: 0.3656
+Valid MSE: 0.00366071857853141 Valid R2: 0.3686
+
+16 Gamma = 10 Lambda = 0.00260318 Nonzeros: 23
+Train MSE: 0.00357542623151054 Train R2: 0.3721
+Valid MSE: 0.00361913148513938 Valid R2: 0.3758
+
+17 Gamma = 10 Lambda = 0.00252508 Nonzeros: 23
+Train MSE: 0.00357547441106767 Train R2: 0.3721
+Valid MSE: 0.0036191823343029 Valid R2: 0.3758
+
+18 Gamma = 10 Lambda = 0.00202007 Nonzeros: 29
+Train MSE: 0.00339086655948557 Train R2: 0.4045
+Valid MSE: 0.00344458121135888 Valid R2: 0.4059
+
+19 Gamma = 10 Lambda = 0.00195946 Nonzeros: 29
+Train MSE: 0.00339077351066251 Train R2: 0.4045
+Valid MSE: 0.00344448167767022 Valid R2: 0.4059
+
+20 Gamma = 10 Lambda = 0.00156757 Nonzeros: 35
+Train MSE: 0.00325950768947501 Train R2: 0.4276
+Valid MSE: 0.00331425643372223 Valid R2: 0.4284
+
+21 Gamma = 10 Lambda = 0.00152054 Nonzeros: 36
+Train MSE: 0.00324033986905739 Train R2: 0.4309
+Valid MSE: 0.00329560190864783 Valid R2: 0.4316
+
+22 Gamma = 10 Lambda = 0.00147493 Nonzeros: 36
+Train MSE: 0.0032404352233636 Train R2: 0.4309
+Valid MSE: 0.00329570344723676 Valid R2: 0.4316
+
+23 Gamma = 10 Lambda = 0.00117994 Nonzeros: 45
+Train MSE: 0.00310877547807379 Train R2: 0.4541
+Valid MSE: 0.00316161422056554 Valid R2: 0.4547
+
+24 Gamma = 10 Lambda = 0.00114454 Nonzeros: 45
+Train MSE: 0.00310881001834082 Train R2: 0.454
+Valid MSE: 0.00316164595705255 Valid R2: 0.4547
+
+25 Gamma = 0.562341325190349 Lambda = 0.106266 Nonzeros: 45
+Train MSE: 0.00569427358943765 Train R2: 0
+Valid MSE: 0.00579996665217405 Valid R2: -4e-04
+
+26 Gamma = 0.562341325190349 Lambda = 0.105204 Nonzeros: 45
+Train MSE: 0.00384343732373526 Train R2: 0.325
+Valid MSE: 0.00380508104804862 Valid R2: 0.3437
+
+27 Gamma = 0.562341325190349 Lambda = 0.100186 Nonzeros: 45
+Train MSE: 0.00384343732373526 Train R2: 0.325
+Valid MSE: 0.00380508104804862 Valid R2: 0.3437
+
+28 Gamma = 0.562341325190349 Lambda = 0.0801485 Nonzeros: 45
+Train MSE: 0.00384343732373526 Train R2: 0.325
+Valid MSE: 0.00380508104804862 Valid R2: 0.3437
+
+29 Gamma = 0.562341325190349 Lambda = 0.0641188 Nonzeros: 45
+Train MSE: 0.00384343732373526 Train R2: 0.325
+Valid MSE: 0.00380508104804862 Valid R2: 0.3437
+
+30 Gamma = 0.562341325190349 Lambda = 0.051295 Nonzeros: 45
+Train MSE: 0.00384343732373526 Train R2: 0.325
+Valid MSE: 0.00380508104804862 Valid R2: 0.3437
+
+31 Gamma = 0.562341325190349 Lambda = 0.041036 Nonzeros: 45
+Train MSE: 0.0032357155229321 Train R2: 0.4318
+Valid MSE: 0.00320096522158567 Valid R2: 0.4479
+
+32 Gamma = 0.562341325190349 Lambda = 0.039805 Nonzeros: 45
+Train MSE: 0.00323573623598693 Train R2: 0.4318
+Valid MSE: 0.00320098909847427 Valid R2: 0.4479
+
+33 Gamma = 0.562341325190349 Lambda = 0.031844 Nonzeros: 45
+Train MSE: 0.00323573851177458 Train R2: 0.4318
+Valid MSE: 0.00320099172187417 Valid R2: 0.4479
+
+34 Gamma = 0.562341325190349 Lambda = 0.0254752 Nonzeros: 45
+Train MSE: 0.00323573876181613 Train R2: 0.4318
+Valid MSE: 0.00320099201010793 Valid R2: 0.4479
+
+35 Gamma = 0.562341325190349 Lambda = 0.0203801 Nonzeros: 3
+Train MSE: 0.00297642459291539 Train R2: 0.4773
+Valid MSE: 0.00296776463655367 Valid R2: 0.4881
+
+Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+36 Gamma = 0.562341325190349 Lambda = 0.0197687 Nonzeros: 3
+Train MSE: 0.00297650590235564 Train R2: 0.4773
+Valid MSE: 0.00296784812488692 Valid R2: 0.4881
+
+Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+37 Gamma = 0.562341325190349 Lambda = 0.015815 Nonzeros: 4
+Train MSE: 0.00278048964501373 Train R2: 0.5117
+Valid MSE: 0.00274115413409912 Valid R2: 0.5272
+
+Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+38 Gamma = 0.562341325190349 Lambda = 0.0153405 Nonzeros: 4
+Train MSE: 0.00278050380115432 Train R2: 0.5117
+Valid MSE: 0.00274118119010817 Valid R2: 0.5272
+
+Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+39 Gamma = 0.562341325190349 Lambda = 0.0122724 Nonzeros: 5
+Train MSE: 0.00263707163499196 Train R2: 0.5369
+Valid MSE: 0.00260861775880801 Valid R2: 0.5501
+
+Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+40 Gamma = 0.562341325190349 Lambda = 0.0119043 Nonzeros: 5
+Train MSE: 0.00263700541383559 Train R2: 0.5369
+Valid MSE: 0.00260856235320857 Valid R2: 0.5501
+
+Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+41 Gamma = 0.562341325190349 Lambda = 0.00952341 Nonzeros: 6
+Train MSE: 0.00251720848198147 Train R2: 0.5579
+Valid MSE: 0.00251025901974862 Valid R2: 0.567
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+42 Gamma = 0.562341325190349 Lambda = 0.0092377 Nonzeros: 6
+Train MSE: 0.00251724771469069 Train R2: 0.5579
+Valid MSE: 0.00251031159663619 Valid R2: 0.567
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+43 Gamma = 0.562341325190349 Lambda = 0.00739016 Nonzeros: 6
+Train MSE: 0.00251727703795912 Train R2: 0.5579
+Valid MSE: 0.00251034517202199 Valid R2: 0.567
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+44 Gamma = 0.562341325190349 Lambda = 0.00591213 Nonzeros: 7
+Train MSE: 0.00244989519540717 Train R2: 0.5698
+Valid MSE: 0.00244249582442977 Valid R2: 0.5787
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  K_1_obj_coef:K_23_pseudocost_ratio 
+45 Gamma = 0.562341325190349 Lambda = 0.00573477 Nonzeros: 7
+Train MSE: 0.00244999214123996 Train R2: 0.5697
+Valid MSE: 0.00244260703732654 Valid R2: 0.5787
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  K_1_obj_coef:K_23_pseudocost_ratio 
+46 Gamma = 0.562341325190349 Lambda = 0.00458781 Nonzeros: 8
+Train MSE: 0.00240378821454147 Train R2: 0.5779
+Valid MSE: 0.00241138742016938 Valid R2: 0.5841
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_20_solution_infeasibility:K_60_active_coef_weight2_max 
+ Features:  K_1_obj_coef:K_23_pseudocost_ratio 
+47 Gamma = 0.562341325190349 Lambda = 0.00445018 Nonzeros: 8
+Train MSE: 0.00240388715686892 Train R2: 0.5778
+Valid MSE: 0.0024115085157731 Valid R2: 0.5841
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_20_solution_infeasibility:K_60_active_coef_weight2_max 
+ Features:  K_1_obj_coef:K_23_pseudocost_ratio 
+48 Gamma = 0.562341325190349 Lambda = 0.00356014 Nonzeros: 10
+Train MSE: 0.00234869379145819 Train R2: 0.5875
+Valid MSE: 0.00236883692845457 Valid R2: 0.5914
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_20_solution_infeasibility:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:K_60_active_coef_weight2_max 
+ Features:  N_21_edge_mean:K_25_pseudocost_product 
+ Features:  K_1_obj_coef:K_23_pseudocost_ratio 
+49 Gamma = 0.562341325190349 Lambda = 0.00345334 Nonzeros: 10
+Train MSE: 0.00234872140950271 Train R2: 0.5875
+Valid MSE: 0.00236887162830002 Valid R2: 0.5914
+
+Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_22_edge_min 
+ Features:  N_20_solution_infeasibility:N_30_is_tight_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_4_n_rows 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_20_solution_infeasibility:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:K_60_active_coef_weight2_max 
+ Features:  N_21_edge_mean:K_25_pseudocost_product 
+ Features:  K_1_obj_coef:K_23_pseudocost_ratio 
+50 Gamma = 0.562341325190349 Lambda = 0.00276267 Nonzeros: 11
+Train MSE: 0.00232693073026153 Train R2: 0.5914
+Valid MSE: 0.00234387914740198 Valid R2: 0.5957
+
+51 Gamma = 0.562341325190349 Lambda = 0.00267979 Nonzeros: 11
+Train MSE: 0.00232704071605544 Train R2: 0.5913
+Valid MSE: 0.00234401000942962 Valid R2: 0.5957
+
+52 Gamma = 0.562341325190349 Lambda = 0.00214383 Nonzeros: 12
+Train MSE: 0.00231600068083721 Train R2: 0.5933
+Valid MSE: 0.00232909641795647 Valid R2: 0.5983
+
+53 Gamma = 0.562341325190349 Lambda = 0.00207952 Nonzeros: 12
+Train MSE: 0.0023160346263247 Train R2: 0.5933
+Valid MSE: 0.00232913011288626 Valid R2: 0.5983
+
+54 Gamma = 0.562341325190349 Lambda = 0.00166361 Nonzeros: 14
+Train MSE: 0.00231314210790362 Train R2: 0.5938
+Valid MSE: 0.00232229061077569 Valid R2: 0.5994
+
+55 Gamma = 0.562341325190349 Lambda = 0.00161371 Nonzeros: 14
+Train MSE: 0.00231304284009532 Train R2: 0.5938
+Valid MSE: 0.0023221726683234 Valid R2: 0.5995
+
+56 Gamma = 0.562341325190349 Lambda = 0.00129096 Nonzeros: 16
+Train MSE: 0.00229830328106111 Train R2: 0.5964
+Valid MSE: 0.00231237457969227 Valid R2: 0.6012
+
+57 Gamma = 0.562341325190349 Lambda = 0.00125224 Nonzeros: 16
+Train MSE: 0.00229839218980296 Train R2: 0.5964
+Valid MSE: 0.00231250809072201 Valid R2: 0.6011
+
+58 Gamma = 0.562341325190349 Lambda = 0.00100179 Nonzeros: 18
+Train MSE: 0.00227336672727981 Train R2: 0.6008
+Valid MSE: 0.00228514496183057 Valid R2: 0.6059
+
+59 Gamma = 0.562341325190349 Lambda = 0.000971735 Nonzeros: 18
+Train MSE: 0.00227345054502174 Train R2: 0.6007
+Valid MSE: 0.00228526105592142 Valid R2: 0.6058
+
+60 Gamma = 0.562341325190349 Lambda = 0.000777388 Nonzeros: 20
+Train MSE: 0.00227042156228712 Train R2: 0.6013
+Valid MSE: 0.00227855745242195 Valid R2: 0.607
+
+61 Gamma = 0.562341325190349 Lambda = 0.000754066 Nonzeros: 23
+Train MSE: 0.0022554082065477 Train R2: 0.6039
+Valid MSE: 0.00227634963065154 Valid R2: 0.6074
+
+62 Gamma = 0.562341325190349 Lambda = 0.000731444 Nonzeros: 23
+Train MSE: 0.0022553014681735 Train R2: 0.6039
+Valid MSE: 0.00227618760533902 Valid R2: 0.6074
+
+63 Gamma = 0.562341325190349 Lambda = 0.000585155 Nonzeros: 23
+Train MSE: 0.00224494904649174 Train R2: 0.6058
+Valid MSE: 0.00227770622328465 Valid R2: 0.6071
+
+64 Gamma = 0.562341325190349 Lambda = 0.000567601 Nonzeros: 23
+Train MSE: 0.00224499965718065 Train R2: 0.6057
+Valid MSE: 0.00227777613897085 Valid R2: 0.6071
+
+65 Gamma = 0.562341325190349 Lambda = 0.000454081 Nonzeros: 23
+Train MSE: 0.00222915500347232 Train R2: 0.6085
+Valid MSE: 0.00229727577468636 Valid R2: 0.6038
+
+66 Gamma = 0.562341325190349 Lambda = 0.000440458 Nonzeros: 23
+Train MSE: 0.00222924057002244 Train R2: 0.6085
+Valid MSE: 0.00229738677780664 Valid R2: 0.6037
+
+67 Gamma = 0.562341325190349 Lambda = 0.000352367 Nonzeros: 23
+Train MSE: 0.00221111703982826 Train R2: 0.6117
+Valid MSE: 0.00229098758668584 Valid R2: 0.6048
+
+68 Gamma = 0.562341325190349 Lambda = 0.000341796 Nonzeros: 23
+Train MSE: 0.00220902079675417 Train R2: 0.6121
+Valid MSE: 0.0022859883170349 Valid R2: 0.6057
+
+69 Gamma = 0.562341325190349 Lambda = 0.000331542 Nonzeros: 23
+Train MSE: 0.00220904114210711 Train R2: 0.6121
+Valid MSE: 0.00228602902190618 Valid R2: 0.6057
+
+70 Gamma = 0.562341325190349 Lambda = 0.000265233 Nonzeros: 46
+Train MSE: 0.00217647270058522 Train R2: 0.6178
+Valid MSE: 0.00225681185369441 Valid R2: 0.6107
+
+71 Gamma = 0.562341325190349 Lambda = 0.000257276 Nonzeros: 46
+Train MSE: 0.0021764644187935 Train R2: 0.6178
+Valid MSE: 0.0022568072139883 Valid R2: 0.6107
+
+72 Gamma = 0.0316227766016838 Lambda = 0.212352 Nonzeros: 46
+Train MSE: 0.00569427358943765 Train R2: 0
+Valid MSE: 0.00579996665217405 Valid R2: -4e-04
+
+73 Gamma = 0.0316227766016838 Lambda = 0.210228 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+74 Gamma = 0.0316227766016838 Lambda = 0.200201 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+75 Gamma = 0.0316227766016838 Lambda = 0.160161 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+76 Gamma = 0.0316227766016838 Lambda = 0.128129 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+77 Gamma = 0.0316227766016838 Lambda = 0.102503 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+78 Gamma = 0.0316227766016838 Lambda = 0.0820023 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+79 Gamma = 0.0316227766016838 Lambda = 0.0656018 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+80 Gamma = 0.0316227766016838 Lambda = 0.0524815 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+81 Gamma = 0.0316227766016838 Lambda = 0.0419852 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+82 Gamma = 0.0316227766016838 Lambda = 0.0335881 Nonzeros: 46
+Train MSE: 0.00313204293636335 Train R2: 0.45
+Valid MSE: 0.00299187369827659 Valid R2: 0.484
+
+83 Gamma = 0.0316227766016838 Lambda = 0.0268705 Nonzeros: 46
+Train MSE: 0.00273326924792972 Train R2: 0.52
+Valid MSE: 0.00263083013385706 Valid R2: 0.5462
+
+84 Gamma = 0.0316227766016838 Lambda = 0.0260644 Nonzeros: 46
+Train MSE: 0.00273330721943436 Train R2: 0.52
+Valid MSE: 0.00263091778566965 Valid R2: 0.5462
+
+85 Gamma = 0.0316227766016838 Lambda = 0.0208515 Nonzeros: 46
+Train MSE: 0.00273331754310622 Train R2: 0.52
+Valid MSE: 0.00263094156540122 Valid R2: 0.5462
+
+86 Gamma = 0.0316227766016838 Lambda = 0.0166812 Nonzeros: 46
+Train MSE: 0.00273332034188866 Train R2: 0.52
+Valid MSE: 0.00263094800844159 Valid R2: 0.5462
+
+87 Gamma = 0.0316227766016838 Lambda = 0.013345 Nonzeros: 46
+Train MSE: 0.00250029489840056 Train R2: 0.5609
+Valid MSE: 0.0024601636666367 Valid R2: 0.5757
+
+88 Gamma = 0.0316227766016838 Lambda = 0.0129446 Nonzeros: 46
+Train MSE: 0.00250030438771266 Train R2: 0.5609
+Valid MSE: 0.00246019147174626 Valid R2: 0.5757
+
+89 Gamma = 0.0316227766016838 Lambda = 0.0103557 Nonzeros: 46
+Train MSE: 0.00250030677247611 Train R2: 0.5609
+Valid MSE: 0.0024601984079296 Valid R2: 0.5757
+
+90 Gamma = 0.0316227766016838 Lambda = 0.00828456 Nonzeros: 46
+Train MSE: 0.00234104306211056 Train R2: 0.5889
+Valid MSE: 0.00229943708970282 Valid R2: 0.6034
+
+91 Gamma = 0.0316227766016838 Lambda = 0.00803602 Nonzeros: 46
+Train MSE: 0.00234104940060568 Train R2: 0.5889
+Valid MSE: 0.00229945703861797 Valid R2: 0.6034
+
+92 Gamma = 0.0316227766016838 Lambda = 0.00642882 Nonzeros: 46
+Train MSE: 0.00234105165745108 Train R2: 0.5889
+Valid MSE: 0.00229946434194983 Valid R2: 0.6034
+
+93 Gamma = 0.0316227766016838 Lambda = 0.00514305 Nonzeros: 46
+Train MSE: 0.00234105238591272 Train R2: 0.5889
+Valid MSE: 0.00229946687915447 Valid R2: 0.6034
+
+94 Gamma = 0.0316227766016838 Lambda = 0.00411444 Nonzeros: 46
+Train MSE: 0.00234105260552194 Train R2: 0.5889
+Valid MSE: 0.00229946774455972 Valid R2: 0.6034
+
+95 Gamma = 0.0316227766016838 Lambda = 0.00329155 Nonzeros: 46
+Train MSE: 0.00228870264076722 Train R2: 0.5981
+Valid MSE: 0.00227511555709974 Valid R2: 0.6076
+
+96 Gamma = 0.0316227766016838 Lambda = 0.00319281 Nonzeros: 46
+Train MSE: 0.00228869668851123 Train R2: 0.5981
+Valid MSE: 0.0022750990179561 Valid R2: 0.6076
+
+97 Gamma = 0.0316227766016838 Lambda = 0.00255425 Nonzeros: 46
+Train MSE: 0.00228869606652356 Train R2: 0.5981
+Valid MSE: 0.00227509531509916 Valid R2: 0.6076
+
+98 Gamma = 0.0316227766016838 Lambda = 0.0020434 Nonzeros: 46
+Train MSE: 0.00228869649414962 Train R2: 0.5981
+Valid MSE: 0.00227509516299149 Valid R2: 0.6076
+
+99 Gamma = 0.0316227766016838 Lambda = 0.00163472 Nonzeros: 46
+Train MSE: 0.00226604758379176 Train R2: 0.602
+Valid MSE: 0.00226489771065104 Valid R2: 0.6093
+
+100 Gamma = 0.0316227766016838 Lambda = 0.00158568 Nonzeros: 46
+Train MSE: 0.00226605049223579 Train R2: 0.602
+Valid MSE: 0.00226486954987195 Valid R2: 0.6094
+
+101 Gamma = 0.0316227766016838 Lambda = 0.00126854 Nonzeros: 9
+Train MSE: 0.00220100969202783 Train R2: 0.6135
+Valid MSE: 0.00225177341653701 Valid R2: 0.6116
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+102 Gamma = 0.0316227766016838 Lambda = 0.00123048 Nonzeros: 9
+Train MSE: 0.00220101503676327 Train R2: 0.6135
+Valid MSE: 0.00225178577621896 Valid R2: 0.6116
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+103 Gamma = 0.0316227766016838 Lambda = 0.000984387 Nonzeros: 9
+Train MSE: 0.0021887204643408 Train R2: 0.6156
+Valid MSE: 0.0022520720409784 Valid R2: 0.6116
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+104 Gamma = 0.0316227766016838 Lambda = 0.000954856 Nonzeros: 9
+Train MSE: 0.0021887232244226 Train R2: 0.6156
+Valid MSE: 0.00225208921552377 Valid R2: 0.6116
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+105 Gamma = 0.0316227766016838 Lambda = 0.000763885 Nonzeros: 9
+Train MSE: 0.00215250047742061 Train R2: 0.622
+Valid MSE: 0.00243552281413958 Valid R2: 0.5799
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+106 Gamma = 0.0316227766016838 Lambda = 0.000740968 Nonzeros: 9
+Train MSE: 0.00215249543319174 Train R2: 0.622
+Valid MSE: 0.00243554147723823 Valid R2: 0.5799
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+107 Gamma = 0.0316227766016838 Lambda = 0.000592774 Nonzeros: 9
+Train MSE: 0.00211280248794725 Train R2: 0.629
+Valid MSE: 0.00234883947280697 Valid R2: 0.5949
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+108 Gamma = 0.0316227766016838 Lambda = 0.000574991 Nonzeros: 9
+Train MSE: 0.00211281025167902 Train R2: 0.629
+Valid MSE: 0.00234885602241552 Valid R2: 0.5949
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+109 Gamma = 0.0316227766016838 Lambda = 0.000459993 Nonzeros: 9
+Train MSE: 0.00209884417456475 Train R2: 0.6314
+Valid MSE: 0.00229063205830912 Valid R2: 0.6049
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+110 Gamma = 0.0316227766016838 Lambda = 0.000446193 Nonzeros: 9
+Train MSE: 0.00209884272368723 Train R2: 0.6314
+Valid MSE: 0.00229062341193709 Valid R2: 0.6049
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+111 Gamma = 0.0316227766016838 Lambda = 0.000356955 Nonzeros: 9
+Train MSE: 0.00209884476042141 Train R2: 0.6314
+Valid MSE: 0.00229062786808851 Valid R2: 0.6049
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+112 Gamma = 0.0316227766016838 Lambda = 0.000285564 Nonzeros: 9
+Train MSE: 0.00207534015445937 Train R2: 0.6355
+Valid MSE: 0.00227260867876054 Valid R2: 0.608
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+113 Gamma = 0.0316227766016838 Lambda = 0.000276997 Nonzeros: 9
+Train MSE: 0.0020753582656063 Train R2: 0.6355
+Valid MSE: 0.00227264940060438 Valid R2: 0.608
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+114 Gamma = 0.0316227766016838 Lambda = 0.000221597 Nonzeros: 9
+Train MSE: 0.00207201704648974 Train R2: 0.6361
+Valid MSE: 0.00227302233183357 Valid R2: 0.6079
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+115 Gamma = 0.0316227766016838 Lambda = 0.000214949 Nonzeros: 9
+Train MSE: 0.00207202723310578 Train R2: 0.6361
+Valid MSE: 0.0022730066810676 Valid R2: 0.6079
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+116 Gamma = 0.0316227766016838 Lambda = 0.00017196 Nonzeros: 9
+Train MSE: 0.00202484841425985 Train R2: 0.6444
+Valid MSE: 0.00225862507723773 Valid R2: 0.6104
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+117 Gamma = 0.0316227766016838 Lambda = 0.000166801 Nonzeros: 9
+Train MSE: 0.00202485017614482 Train R2: 0.6444
+Valid MSE: 0.002258639768925 Valid R2: 0.6104
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+118 Gamma = 0.0316227766016838 Lambda = 0.000133441 Nonzeros: 9
+Train MSE: 0.00199196406438838 Train R2: 0.6502
+Valid MSE: 0.00231309231317079 Valid R2: 0.601
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+119 Gamma = 0.0316227766016838 Lambda = 0.000129437 Nonzeros: 9
+Train MSE: 0.00199195287882599 Train R2: 0.6502
+Valid MSE: 0.00231312162814519 Valid R2: 0.601
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+120 Gamma = 0.0316227766016838 Lambda = 0.00010355 Nonzeros: 9
+Train MSE: 0.00198182418335464 Train R2: 0.652
+Valid MSE: 0.00229851823316769 Valid R2: 0.6035
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+121 Gamma = 0.0316227766016838 Lambda = 0.000100443 Nonzeros: 9
+Train MSE: 0.00198177669264645 Train R2: 0.652
+Valid MSE: 0.00229845259426396 Valid R2: 0.6036
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+122 Gamma = 0.00177827941003892 Lambda = 0.224982 Nonzeros: 9
+Train MSE: 0.00569427358943765 Train R2: 0
+Valid MSE: 0.00579996665217405 Valid R2: -4e-04
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+123 Gamma = 0.00177827941003892 Lambda = 0.222732 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+124 Gamma = 0.00177827941003892 Lambda = 0.212108 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+125 Gamma = 0.00177827941003892 Lambda = 0.169687 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+126 Gamma = 0.00177827941003892 Lambda = 0.135749 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+127 Gamma = 0.00177827941003892 Lambda = 0.108599 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+128 Gamma = 0.00177827941003892 Lambda = 0.0868796 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+129 Gamma = 0.00177827941003892 Lambda = 0.0695036 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+130 Gamma = 0.00177827941003892 Lambda = 0.0556029 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+131 Gamma = 0.00177827941003892 Lambda = 0.0444823 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+132 Gamma = 0.00177827941003892 Lambda = 0.0355859 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+133 Gamma = 0.00177827941003892 Lambda = 0.0284687 Nonzeros: 9
+Train MSE: 0.00312297713669465 Train R2: 0.4516
+Valid MSE: 0.00297348131600502 Valid R2: 0.4871
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+134 Gamma = 0.00177827941003892 Lambda = 0.022775 Nonzeros: 9
+Train MSE: 0.00272822033528849 Train R2: 0.5209
+Valid MSE: 0.00261193294817515 Valid R2: 0.5495
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+135 Gamma = 0.00177827941003892 Lambda = 0.0220917 Nonzeros: 9
+Train MSE: 0.00272822151237371 Train R2: 0.5209
+Valid MSE: 0.00261195862891499 Valid R2: 0.5495
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+136 Gamma = 0.00177827941003892 Lambda = 0.0176734 Nonzeros: 9
+Train MSE: 0.00272822188452584 Train R2: 0.5209
+Valid MSE: 0.00261196645049205 Valid R2: 0.5495
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+137 Gamma = 0.00177827941003892 Lambda = 0.0141387 Nonzeros: 9
+Train MSE: 0.00252874849792485 Train R2: 0.5559
+Valid MSE: 0.0025032595614481 Valid R2: 0.5682
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+138 Gamma = 0.00177827941003892 Lambda = 0.0137145 Nonzeros: 9
+Train MSE: 0.00252874624878162 Train R2: 0.5559
+Valid MSE: 0.00250320451828472 Valid R2: 0.5682
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+139 Gamma = 0.00177827941003892 Lambda = 0.0109716 Nonzeros: 9
+Train MSE: 0.00252874569489033 Train R2: 0.5559
+Valid MSE: 0.00250318944842724 Valid R2: 0.5682
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+140 Gamma = 0.00177827941003892 Lambda = 0.0087773 Nonzeros: 9
+Train MSE: 0.00252874556581969 Train R2: 0.5559
+Valid MSE: 0.00250318573320794 Valid R2: 0.5682
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+141 Gamma = 0.00177827941003892 Lambda = 0.00702184 Nonzeros: 9
+Train MSE: 0.00243321862127163 Train R2: 0.5727
+Valid MSE: 0.00252457310107708 Valid R2: 0.5646
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+142 Gamma = 0.00177827941003892 Lambda = 0.00681119 Nonzeros: 9
+Train MSE: 0.00243321739565115 Train R2: 0.5727
+Valid MSE: 0.00252453413842315 Valid R2: 0.5646
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+143 Gamma = 0.00177827941003892 Lambda = 0.00544895 Nonzeros: 9
+Train MSE: 0.00243321720915344 Train R2: 0.5727
+Valid MSE: 0.00252452675113809 Valid R2: 0.5646
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+144 Gamma = 0.00177827941003892 Lambda = 0.00435916 Nonzeros: 9
+Train MSE: 0.00243321723187969 Train R2: 0.5727
+Valid MSE: 0.00252452625507204 Valid R2: 0.5646
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+145 Gamma = 0.00177827941003892 Lambda = 0.00348733 Nonzeros: 9
+Train MSE: 0.00243321725325691 Train R2: 0.5727
+Valid MSE: 0.00252452645991899 Valid R2: 0.5646
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+146 Gamma = 0.00177827941003892 Lambda = 0.00278986 Nonzeros: 9
+Train MSE: 0.0022997037533286 Train R2: 0.5961
+Valid MSE: 0.0023041767248439 Valid R2: 0.6026
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+147 Gamma = 0.00177827941003892 Lambda = 0.00270617 Nonzeros: 9
+Train MSE: 0.00229970488984991 Train R2: 0.5961
+Valid MSE: 0.00230417756351672 Valid R2: 0.6026
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+148 Gamma = 0.00177827941003892 Lambda = 0.00216493 Nonzeros: 9
+Train MSE: 0.00229970538622207 Train R2: 0.5961
+Valid MSE: 0.00230417987159122 Valid R2: 0.6026
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+149 Gamma = 0.00177827941003892 Lambda = 0.00173195 Nonzeros: 9
+Train MSE: 0.00226247913251401 Train R2: 0.6027
+Valid MSE: 0.00226031860527932 Valid R2: 0.6101
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+150 Gamma = 0.00177827941003892 Lambda = 0.00167999 Nonzeros: 9
+Train MSE: 0.00226247978898115 Train R2: 0.6027
+Valid MSE: 0.00226034856662977 Valid R2: 0.6101
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+151 Gamma = 0.00177827941003892 Lambda = 0.00134399 Nonzeros: 9
+Train MSE: 0.00226247955030211 Train R2: 0.6027
+Valid MSE: 0.00226035559776054 Valid R2: 0.6101
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+152 Gamma = 0.00177827941003892 Lambda = 0.00107519 Nonzeros: 9
+Train MSE: 0.00220298069892458 Train R2: 0.6131
+Valid MSE: 0.0023625835332107 Valid R2: 0.5925
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+153 Gamma = 0.00177827941003892 Lambda = 0.00104294 Nonzeros: 9
+Train MSE: 0.00220297845208547 Train R2: 0.6131
+Valid MSE: 0.00236258650860302 Valid R2: 0.5925
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+154 Gamma = 0.00177827941003892 Lambda = 0.000834349 Nonzeros: 9
+Train MSE: 0.00218241525717854 Train R2: 0.6167
+Valid MSE: 0.00237028132526615 Valid R2: 0.5912
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+155 Gamma = 0.00177827941003892 Lambda = 0.000809319 Nonzeros: 9
+Train MSE: 0.00218241489814017 Train R2: 0.6167
+Valid MSE: 0.00237033275182983 Valid R2: 0.5912
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+156 Gamma = 0.00177827941003892 Lambda = 0.000647455 Nonzeros: 9
+Train MSE: 0.00210907386227795 Train R2: 0.6296
+Valid MSE: 0.00247702577484478 Valid R2: 0.5728
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+157 Gamma = 0.00177827941003892 Lambda = 0.000628031 Nonzeros: 9
+Train MSE: 0.00210907505125581 Train R2: 0.6296
+Valid MSE: 0.00247708279331944 Valid R2: 0.5728
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+158 Gamma = 0.00177827941003892 Lambda = 0.000502425 Nonzeros: 9
+Train MSE: 0.00208946840737891 Train R2: 0.6331
+Valid MSE: 0.00245370372611203 Valid R2: 0.5768
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+159 Gamma = 0.00177827941003892 Lambda = 0.000487352 Nonzeros: 9
+Train MSE: 0.00208946993602676 Train R2: 0.6331
+Valid MSE: 0.00245366519329359 Valid R2: 0.5768
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+160 Gamma = 0.00177827941003892 Lambda = 0.000389882 Nonzeros: 9
+Train MSE: 0.00208947025962948 Train R2: 0.6331
+Valid MSE: 0.00245364675010769 Valid R2: 0.5768
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+161 Gamma = 0.00177827941003892 Lambda = 0.000311905 Nonzeros: 9
+Train MSE: 0.00208947045112605 Train R2: 0.6331
+Valid MSE: 0.00245364301048409 Valid R2: 0.5768
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+162 Gamma = 0.00177827941003892 Lambda = 0.000249524 Nonzeros: 9
+Train MSE: 0.00204637782188618 Train R2: 0.6406
+Valid MSE: 0.00230970134966989 Valid R2: 0.6016
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+163 Gamma = 0.00177827941003892 Lambda = 0.000242039 Nonzeros: 9
+Train MSE: 0.0020463804096598 Train R2: 0.6406
+Valid MSE: 0.00230972360506625 Valid R2: 0.6016
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+164 Gamma = 0.00177827941003892 Lambda = 0.000193631 Nonzeros: 9
+Train MSE: 0.00203640721669216 Train R2: 0.6424
+Valid MSE: 0.0023196396686332 Valid R2: 0.5999
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+165 Gamma = 0.00177827941003892 Lambda = 0.000187822 Nonzeros: 9
+Train MSE: 0.00203640947906454 Train R2: 0.6424
+Valid MSE: 0.00231968068069986 Valid R2: 0.5999
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+166 Gamma = 0.00177827941003892 Lambda = 0.000150258 Nonzeros: 9
+Train MSE: 0.00197865385726571 Train R2: 0.6525
+Valid MSE: 0.00228814474197902 Valid R2: 0.6053
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+167 Gamma = 0.00177827941003892 Lambda = 0.00014575 Nonzeros: 9
+Train MSE: 0.00197865273199891 Train R2: 0.6525
+Valid MSE: 0.00228813272523502 Valid R2: 0.6053
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+168 Gamma = 0.00177827941003892 Lambda = 0.0001166 Nonzeros: 9
+Train MSE: 0.00196314263316422 Train R2: 0.6552
+Valid MSE: 0.00227932428276887 Valid R2: 0.6069
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+169 Gamma = 0.00177827941003892 Lambda = 0.000113102 Nonzeros: 9
+Train MSE: 0.00196313953246238 Train R2: 0.6552
+Valid MSE: 0.00227932563411421 Valid R2: 0.6069
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+170 Gamma = 1e-04 Lambda = 0.225737 Nonzeros: 9
+Train MSE: 0.00569427358943765 Train R2: 0
+Valid MSE: 0.00579996665217405 Valid R2: -4e-04
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+171 Gamma = 1e-04 Lambda = 0.223479 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+172 Gamma = 1e-04 Lambda = 0.21282 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+173 Gamma = 1e-04 Lambda = 0.170256 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+174 Gamma = 1e-04 Lambda = 0.136205 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+175 Gamma = 1e-04 Lambda = 0.108964 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+176 Gamma = 1e-04 Lambda = 0.0871711 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+177 Gamma = 1e-04 Lambda = 0.0697369 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+178 Gamma = 1e-04 Lambda = 0.0557895 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+179 Gamma = 1e-04 Lambda = 0.0446316 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+180 Gamma = 1e-04 Lambda = 0.0357053 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+181 Gamma = 1e-04 Lambda = 0.0285642 Nonzeros: 9
+Train MSE: 0.00312294494461074 Train R2: 0.4516
+Valid MSE: 0.00297291043024796 Valid R2: 0.4872
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+182 Gamma = 1e-04 Lambda = 0.0228514 Nonzeros: 9
+Train MSE: 0.00272820422089368 Train R2: 0.5209
+Valid MSE: 0.00261110217474467 Valid R2: 0.5496
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+183 Gamma = 1e-04 Lambda = 0.0221658 Nonzeros: 9
+Train MSE: 0.00272820422014997 Train R2: 0.5209
+Valid MSE: 0.00261112751429703 Valid R2: 0.5496
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+184 Gamma = 1e-04 Lambda = 0.0177327 Nonzeros: 9
+Train MSE: 0.00272820423561426 Train R2: 0.5209
+Valid MSE: 0.00261113528535407 Valid R2: 0.5496
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+185 Gamma = 1e-04 Lambda = 0.0141861 Nonzeros: 9
+Train MSE: 0.00252873156533315 Train R2: 0.5559
+Valid MSE: 0.00250268453338831 Valid R2: 0.5683
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+186 Gamma = 1e-04 Lambda = 0.0137606 Nonzeros: 9
+Train MSE: 0.00252873125196744 Train R2: 0.5559
+Valid MSE: 0.00250263023151634 Valid R2: 0.5683
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+187 Gamma = 1e-04 Lambda = 0.0110084 Nonzeros: 9
+Train MSE: 0.00252873120782164 Train R2: 0.5559
+Valid MSE: 0.00250261519155383 Valid R2: 0.5683
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+188 Gamma = 1e-04 Lambda = 0.00880676 Nonzeros: 9
+Train MSE: 0.00252873119955199 Train R2: 0.5559
+Valid MSE: 0.0025026114348361 Valid R2: 0.5683
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+189 Gamma = 1e-04 Lambda = 0.0070454 Nonzeros: 9
+Train MSE: 0.0024331948505764 Train R2: 0.5727
+Valid MSE: 0.0025260344016287 Valid R2: 0.5643
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+190 Gamma = 1e-04 Lambda = 0.00683404 Nonzeros: 9
+Train MSE: 0.00243319473874442 Train R2: 0.5727
+Valid MSE: 0.0025259944962951 Valid R2: 0.5643
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+191 Gamma = 1e-04 Lambda = 0.00546723 Nonzeros: 9
+Train MSE: 0.00243319472609403 Train R2: 0.5727
+Valid MSE: 0.00252598671015052 Valid R2: 0.5643
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+192 Gamma = 1e-04 Lambda = 0.00437379 Nonzeros: 9
+Train MSE: 0.00243319472713222 Train R2: 0.5727
+Valid MSE: 0.00252598608591668 Valid R2: 0.5643
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+193 Gamma = 1e-04 Lambda = 0.00349903 Nonzeros: 9
+Train MSE: 0.00243319472833187 Train R2: 0.5727
+Valid MSE: 0.00252598625795028 Valid R2: 0.5643
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+194 Gamma = 1e-04 Lambda = 0.00279922 Nonzeros: 9
+Train MSE: 0.00233572966399663 Train R2: 0.5898
+Valid MSE: 0.00233753359797123 Valid R2: 0.5968
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+195 Gamma = 1e-04 Lambda = 0.00271525 Nonzeros: 9
+Train MSE: 0.0023357296433395 Train R2: 0.5898
+Valid MSE: 0.00233758403409735 Valid R2: 0.5968
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+196 Gamma = 1e-04 Lambda = 0.0021722 Nonzeros: 9
+Train MSE: 0.00230182551426074 Train R2: 0.5958
+Valid MSE: 0.00233324130527256 Valid R2: 0.5976
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+197 Gamma = 1e-04 Lambda = 0.00210703 Nonzeros: 9
+Train MSE: 0.00230182539232871 Train R2: 0.5958
+Valid MSE: 0.0023332640480769 Valid R2: 0.5976
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+198 Gamma = 1e-04 Lambda = 0.00168563 Nonzeros: 9
+Train MSE: 0.00223720320044906 Train R2: 0.6071
+Valid MSE: 0.00228545231470993 Valid R2: 0.6058
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+199 Gamma = 1e-04 Lambda = 0.00163506 Nonzeros: 9
+Train MSE: 0.00223720292090447 Train R2: 0.6071
+Valid MSE: 0.00228548550868301 Valid R2: 0.6058
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+200 Gamma = 1e-04 Lambda = 0.00130805 Nonzeros: 9
+Train MSE: 0.00223720287375943 Train R2: 0.6071
+Valid MSE: 0.00228551407903767 Valid R2: 0.6058
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+201 Gamma = 1e-04 Lambda = 0.00104644 Nonzeros: 9
+Train MSE: 0.00217823340367924 Train R2: 0.6175
+Valid MSE: 0.00226993178702465 Valid R2: 0.6085
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+202 Gamma = 1e-04 Lambda = 0.00101504 Nonzeros: 9
+Train MSE: 0.00217823296612239 Train R2: 0.6175
+Valid MSE: 0.00226994217562297 Valid R2: 0.6085
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+203 Gamma = 1e-04 Lambda = 0.000812035 Nonzeros: 9
+Train MSE: 0.00217823287786006 Train R2: 0.6175
+Valid MSE: 0.00226995447329468 Valid R2: 0.6085
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+204 Gamma = 1e-04 Lambda = 0.000649628 Nonzeros: 9
+Train MSE: 0.00215756141620485 Train R2: 0.6211
+Valid MSE: 0.00239813262647912 Valid R2: 0.5864
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+205 Gamma = 1e-04 Lambda = 0.000630139 Nonzeros: 9
+Train MSE: 0.0021575611918941 Train R2: 0.6211
+Valid MSE: 0.00239812876834041 Valid R2: 0.5864
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+206 Gamma = 1e-04 Lambda = 0.000504111 Nonzeros: 9
+Train MSE: 0.00212918160091926 Train R2: 0.6261
+Valid MSE: 0.00253743818780545 Valid R2: 0.5623
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+207 Gamma = 1e-04 Lambda = 0.000488988 Nonzeros: 9
+Train MSE: 0.00212918128206505 Train R2: 0.6261
+Valid MSE: 0.00253749508163819 Valid R2: 0.5623
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+208 Gamma = 1e-04 Lambda = 0.00039119 Nonzeros: 9
+Train MSE: 0.00205141701392831 Train R2: 0.6397
+Valid MSE: 0.00245202978772505 Valid R2: 0.5771
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+209 Gamma = 1e-04 Lambda = 0.000379454 Nonzeros: 9
+Train MSE: 0.00205141575401542 Train R2: 0.6397
+Valid MSE: 0.0024520164090247 Valid R2: 0.5771
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+210 Gamma = 1e-04 Lambda = 0.000303564 Nonzeros: 9
+Train MSE: 0.00205141489257839 Train R2: 0.6397
+Valid MSE: 0.00245196410946608 Valid R2: 0.5771
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+211 Gamma = 1e-04 Lambda = 0.000242851 Nonzeros: 9
+Train MSE: 0.00204328037487836 Train R2: 0.6412
+Valid MSE: 0.00246529122677921 Valid R2: 0.5748
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+212 Gamma = 1e-04 Lambda = 0.000235565 Nonzeros: 9
+Train MSE: 0.00204327930997666 Train R2: 0.6412
+Valid MSE: 0.00246524422106249 Valid R2: 0.5748
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+213 Gamma = 1e-04 Lambda = 0.000188452 Nonzeros: 9
+Train MSE: 0.0020021465177904 Train R2: 0.6484
+Valid MSE: 0.00256578655150981 Valid R2: 0.5575
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+214 Gamma = 1e-04 Lambda = 0.000182799 Nonzeros: 9
+Train MSE: 0.00200214566967963 Train R2: 0.6484
+Valid MSE: 0.00256586210040029 Valid R2: 0.5574
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+215 Gamma = 1e-04 Lambda = 0.000146239 Nonzeros: 9
+Train MSE: 0.00197168146603405 Train R2: 0.6537
+Valid MSE: 0.00255273633474475 Valid R2: 0.5597
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+216 Gamma = 1e-04 Lambda = 0.000141852 Nonzeros: 9
+Train MSE: 0.0019716804741474 Train R2: 0.6537
+Valid MSE: 0.00255270871223402 Valid R2: 0.5597
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+217 Gamma = 1e-04 Lambda = 0.000113481 Nonzeros: 9
+Train MSE: 0.00196402629624466 Train R2: 0.6551
+Valid MSE: 0.00256288359931665 Valid R2: 0.558
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+218 Gamma = 1e-04 Lambda = 0.000110077 Nonzeros: 9
+Train MSE: 0.00196402538420617 Train R2: 0.6551
+Valid MSE: 0.00256292211595012 Valid R2: 0.5579
+
+Features:  poly(N_15_average_incumbent_value, 2, raw = TRUE)[, 2] 
+ Features:  N_9_solution_value:K_49_active_coef_weight1_count 
+ Features:  N_20_solution_infeasibility:N_21_edge_mean 
+ Features:  N_20_solution_infeasibility:K_1_obj_coef 
+ Features:  N_20_solution_infeasibility:K_14_rows_neg_coefs_count 
+ Features:  N_26_bias_max:K_18_rows_neg_coefs_max 
+ Features:  N_33_dual_solution_mean:K_1_obj_coef 
+ Features:  K_1_obj_coef:K_34_rows_dynamic_deg_mean_ratio 
+ Features:  K_25_pseudocost_product:K_60_active_coef_weight2_max 
+Best model: Gamma = 0.0316227766016838 Lambda = 0.00126854 Train R2: 0.613469627432285 Train MSE: 0.00220100969202783 Valid R2: 0.61161191700092 Valid MSE: 0.00225177341653701

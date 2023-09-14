@@ -1,0 +1,136 @@
+def khalil_feat_names():
+
+    khalil_feat_names_dict = {}
+    khalil_feat_names_dict[0] = 'obj_coef'
+    khalil_feat_names_dict[1] = 'obj_coef_pos_part'
+    khalil_feat_names_dict[2] = 'obj_coef_neg_part'
+
+    khalil_feat_names_dict[3] = 'n_rows'
+    khalil_feat_names_dict[4] = 'rows_deg_mean'
+    khalil_feat_names_dict[5] = 'rows_deg_stddev'
+    khalil_feat_names_dict[6] = 'rows_deg_min'
+    khalil_feat_names_dict[7] = 'rows_deg_max'
+
+    khalil_feat_names_dict[8] = 'rows_pos_coefs_count'
+    khalil_feat_names_dict[9] = 'rows_pos_coefs_mean'
+    khalil_feat_names_dict[10] = 'rows_pos_coefs_stddev'
+    khalil_feat_names_dict[11] = 'rows_pos_coefs_min'
+    khalil_feat_names_dict[12] = 'rows_pos_coefs_max'
+
+    khalil_feat_names_dict[13] = 'rows_neg_coefs_count'
+    khalil_feat_names_dict[14] = 'rows_neg_coefs_mean'
+    khalil_feat_names_dict[15] = 'rows_neg_coefs_stddev'
+    khalil_feat_names_dict[16] = 'rows_neg_coefs_min'
+    khalil_feat_names_dict[17] = 'rows_neg_coefs_max'
+
+    khalil_feat_names_dict[18] = 'slack'
+    khalil_feat_names_dict[19] = 'ceil_dist'
+
+    khalil_feat_names_dict[20] = 'pseudocost_up'
+    khalil_feat_names_dict[21] = 'pseudocost_down'
+    khalil_feat_names_dict[22] = 'pseudocost_ratio'
+    khalil_feat_names_dict[23] = 'pseudocost_sum'
+    khalil_feat_names_dict[24] = 'pseudocost_product'
+
+    khalil_feat_names_dict[25] = 'n_cutoff_up'
+    khalil_feat_names_dict[26] = 'n_cutoff_down'
+    khalil_feat_names_dict[27] = 'n_cutoff_up_ratio'
+    khalil_feat_names_dict[28] = 'n_cutoff_down_ratio'
+
+    khalil_feat_names_dict[29] = 'rows_dynamic_deg_mean'
+    khalil_feat_names_dict[30] = 'rows_dynamic_deg_stddev'
+    khalil_feat_names_dict[31] = 'rows_dynamic_deg_min'
+    khalil_feat_names_dict[32] = 'rows_dynamic_deg_max'
+
+    khalil_feat_names_dict[33] = 'rows_dynamic_deg_mean_ratio'
+    khalil_feat_names_dict[34] = 'rows_dynamic_deg_min_ratio'
+    khalil_feat_names_dict[35] = 'rows_dynamic_deg_max_ratio'
+
+    khalil_feat_names_dict[36] = 'coef_pos_rhs_ratio_min'
+    khalil_feat_names_dict[37] = 'coef_pos_rhs_ratio_max'
+    khalil_feat_names_dict[38] = 'coef_neg_rhs_ratio_min'
+    khalil_feat_names_dict[39] = 'coef_neg_rhs_ratio_max'
+
+    khalil_feat_names_dict[40] = 'pos_coef_pos_coef_ratio_min'
+    khalil_feat_names_dict[41] = 'pos_coef_pos_coef_ratio_max'
+    khalil_feat_names_dict[42] = 'pos_coef_neg_coef_ratio_min'
+    khalil_feat_names_dict[43] = 'pos_coef_neg_coef_ratio_max'
+
+    khalil_feat_names_dict[44] = 'neg_coef_pos_coef_ratio_min'
+    khalil_feat_names_dict[45] = 'neg_coef_pos_coef_ratio_max'
+    khalil_feat_names_dict[46] = 'neg_coef_neg_coef_ratio_min'
+    khalil_feat_names_dict[47] = 'neg_coef_neg_coef_ratio_max'
+
+    khalil_feat_names_dict[48] = 'active_coef_weight1_count'
+    khalil_feat_names_dict[49] = 'active_coef_weight1_sum'
+    khalil_feat_names_dict[50] = 'active_coef_weight1_mean'
+    khalil_feat_names_dict[51] = 'active_coef_weight1_stddev'
+    khalil_feat_names_dict[52] = 'active_coef_weight1_min'
+    khalil_feat_names_dict[53] = 'active_coef_weight1_max'
+
+    khalil_feat_names_dict[54] = 'active_coef_weight2_count'
+    khalil_feat_names_dict[55] = 'active_coef_weight2_sum'
+    khalil_feat_names_dict[56] = 'active_coef_weight2_mean'
+    khalil_feat_names_dict[57] = 'active_coef_weight2_stddev'
+    khalil_feat_names_dict[58] = 'active_coef_weight2_min'
+    khalil_feat_names_dict[59] = 'active_coef_weight2_max'
+
+    khalil_feat_names_dict[60] = 'active_coef_weight3_count'
+    khalil_feat_names_dict[61] = 'active_coef_weight3_sum'
+    khalil_feat_names_dict[62] = 'active_coef_weight3_mean'
+    khalil_feat_names_dict[63] = 'active_coef_weight3_stddev'
+    khalil_feat_names_dict[64] = 'active_coef_weight3_min'
+    khalil_feat_names_dict[65] = 'active_coef_weight3_max'
+
+    khalil_feat_names_dict[66] = 'active_coef_weight4_count'
+    khalil_feat_names_dict[67] = 'active_coef_weight4_sum'
+    khalil_feat_names_dict[68] = 'active_coef_weight4_mean'
+    khalil_feat_names_dict[69] = 'active_coef_weight4_stddev'
+    khalil_feat_names_dict[70] = 'active_coef_weight4_min'
+    khalil_feat_names_dict[71] = 'active_coef_weight4_max'
+
+    return khalil_feat_names_dict
+
+def node_candidate_feat_names():
+
+    node_candidate_feat_names_dict = {}
+    node_candidate_feat_names_dict[0] = 'objective'
+    node_candidate_feat_names_dict[1] = 'is_type_binary'
+    node_candidate_feat_names_dict[2] = 'is_type_integer'
+    node_candidate_feat_names_dict[3] = 'is_type_implicit_integer'
+    node_candidate_feat_names_dict[4] = 'is_type_continuous'
+    node_candidate_feat_names_dict[5] = 'has_lower_bound'
+    node_candidate_feat_names_dict[6] = 'has_upper_bound'
+    node_candidate_feat_names_dict[7] = 'normed_reduced_cost'
+    node_candidate_feat_names_dict[8] = 'solution_value'
+    node_candidate_feat_names_dict[9] = 'solution_frac'
+    node_candidate_feat_names_dict[10] = 'is_solution_at_lower_bound'
+    node_candidate_feat_names_dict[11] = 'is_solution_at_upper_bound'
+    node_candidate_feat_names_dict[12] = 'scaled_age'
+    node_candidate_feat_names_dict[13] = 'incumbent_value'
+    node_candidate_feat_names_dict[14] = 'average_incumbent_value'
+    node_candidate_feat_names_dict[15] = 'is_basis_lower'
+    node_candidate_feat_names_dict[16] = 'is_basis_basic'
+    node_candidate_feat_names_dict[17] = 'is_basis_upper'
+    node_candidate_feat_names_dict[18] = 'is_basis_zero'
+    node_candidate_feat_names_dict[19] = 'solution_infeasibility'
+    node_candidate_feat_names_dict[20] = 'edge_mean'
+    node_candidate_feat_names_dict[21] = 'edge_min'
+    node_candidate_feat_names_dict[22] = 'edge_max'
+    node_candidate_feat_names_dict[23] = 'bias_mean'
+    node_candidate_feat_names_dict[24] = 'bias_min'
+    node_candidate_feat_names_dict[25] = 'bias_max'
+    node_candidate_feat_names_dict[26] = 'obj_cos_sim_mean'
+    node_candidate_feat_names_dict[27] = 'obj_cos_sim_min'
+    node_candidate_feat_names_dict[28] = 'obj_cos_sim_max'
+    node_candidate_feat_names_dict[29] = 'is_tight_mean'
+    node_candidate_feat_names_dict[30] = 'is_tight_min'
+    node_candidate_feat_names_dict[31] = 'is_tight_max'
+    node_candidate_feat_names_dict[32] = 'dual_solution_mean'
+    node_candidate_feat_names_dict[33] = 'dual_solution_min'
+    node_candidate_feat_names_dict[34] = 'dual_solution_max'
+    node_candidate_feat_names_dict[35] = 'scaled_age_mean'
+    node_candidate_feat_names_dict[36] = 'scaled_age_min'
+    node_candidate_feat_names_dict[37] = 'scaled_age_max'
+
+    return node_candidate_feat_names_dict

@@ -1,0 +1,2 @@
+model,seed,instance,nnodes,nlps,nlpiterations,nnodelps,ndivinglps,nsbs,b_cutoffs,b_domreds,stime,gap,status,mem_used,mem_total,branching_time,walltime,proctime,cpu_user_time,cpu_system_time
+l0learn_l0l2,0,instance_1.lp,37,116,5788,59,57,0,0,0,2.280000,0.000000,optimal,40.148645,57.970194,0.000000,2.545255,2.495322,2.280000,0.220000

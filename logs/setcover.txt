@@ -1,0 +1,89 @@
+[2023-09-13 20:26:19.774445] Node record probability: 0.05
+[2023-09-13 20:26:19.775902] Candidate limit (total): 5000
+[2023-09-13 20:26:19.776386] Node limit (per instance): 1000
+[2023-09-13 20:26:19.800760] 20 training instances to collect 5000 candidates
+[2023-09-13 20:31:40.392179] Training samples: --- 320.59 seconds ---
+[2023-09-13 20:31:40.405134] Number of episodes: 6, Number of samples: 59, Number of candidates: 5078
+[2023-09-13 20:31:40.580746] 20 validation instances to collect 5000 candidates
+[2023-09-13 20:40:57.828551] Validation samples: --- 557.24 seconds ---
+[2023-09-13 20:40:57.832457] Number of episodes: 4, Number of samples: 58, Number of candidates: 5047
+[2023-09-13 20:40:57.959343] Loading training samples
+[2023-09-13 20:40:58.181857]   dataset size limit reached (5000 candidate variables)
+[2023-09-13 20:40:58.240214]   5000 training samples
+[2023-09-13 20:40:58.240626] Loading validation samples
+[2023-09-13 20:40:58.510550]   dataset size limit reached (5000 candidate variables)
+[2023-09-13 20:40:58.540452]   5000 validation samples
+[2023-09-13 20:41:01.275670] Before preprocessing:  110 features
+[2023-09-13 20:41:01.557801] After preprocessing:  65 features
+[2023-09-13 20:41:01.558618] Features: 
+[2023-09-13 20:41:01.558951] Index(['N_1_objective', 'N_9_solution_value', 'N_14_incumbent_value',
+       'N_15_average_incumbent_value', 'N_20_solution_infeasibility',
+       'N_21_edge_mean', 'N_22_edge_min', 'N_23_edge_max', 'N_24_bias_mean',
+       'N_25_bias_min', 'N_26_bias_max', 'N_27_obj_cos_sim_mean',
+       'N_28_obj_cos_sim_min', 'N_29_obj_cos_sim_max', 'N_30_is_tight_mean',
+       'N_33_dual_solution_mean', 'N_34_dual_solution_min',
+       'N_36_scaled_age_mean', 'N_38_scaled_age_max', 'K_1_obj_coef',
+       'K_4_n_rows', 'K_5_rows_deg_mean', 'K_6_rows_deg_stddev',
+       'K_7_rows_deg_min', 'K_9_rows_pos_coefs_count',
+       'K_14_rows_neg_coefs_count', 'K_15_rows_neg_coefs_mean',
+       'K_16_rows_neg_coefs_stddev', 'K_17_rows_neg_coefs_min',
+       'K_18_rows_neg_coefs_max', 'K_21_pseudocost_up', 'K_22_pseudocost_down',
+       'K_23_pseudocost_ratio', 'K_24_pseudocost_sum',
+       'K_25_pseudocost_product', 'K_26_n_cutoff_up', 'K_27_n_cutoff_down',
+       'K_28_n_cutoff_up_ratio', 'K_29_n_cutoff_down_ratio',
+       'K_32_rows_dynamic_deg_min', 'K_34_rows_dynamic_deg_mean_ratio',
+       'K_35_rows_dynamic_deg_min_ratio', 'K_36_rows_dynamic_deg_max_ratio',
+       'K_37_coef_pos_rhs_ratio_min', 'K_38_coef_pos_rhs_ratio_max',
+       'K_41_pos_coef_pos_coef_ratio_min', 'K_42_pos_coef_pos_coef_ratio_max',
+       'K_48_neg_coef_neg_coef_ratio_max', 'K_49_active_coef_weight1_count',
+       'K_51_active_coef_weight1_mean', 'K_52_active_coef_weight1_stddev',
+       'K_53_active_coef_weight1_min', 'K_54_active_coef_weight1_max',
+       'K_57_active_coef_weight2_mean', 'K_58_active_coef_weight2_stddev',
+       'K_59_active_coef_weight2_min', 'K_60_active_coef_weight2_max',
+       'K_63_active_coef_weight3_mean', 'K_64_active_coef_weight3_stddev',
+       'K_65_active_coef_weight3_min', 'K_66_active_coef_weight3_max',
+       'K_69_active_coef_weight4_mean', 'K_70_active_coef_weight4_stddev',
+       'K_71_active_coef_weight4_min', 'K_72_active_coef_weight4_max'],
+      dtype='object')
+[2023-09-13 20:41:01.560744] Targets: 
+[2023-09-13 20:41:01.560950] Index(['Score'], dtype='object')
+[2023-09-13 20:42:36.895312] Loading training samples
+[2023-09-13 20:42:37.018086]   dataset size limit reached (5000 candidate variables)
+[2023-09-13 20:42:37.022095]   5000 training samples
+[2023-09-13 20:42:37.022335] Loading validation samples
+[2023-09-13 20:42:37.124208]   dataset size limit reached (5000 candidate variables)
+[2023-09-13 20:42:37.157290]   5000 validation samples
+[2023-09-13 20:42:44.823032] Before preprocessing:  110 features
+[2023-09-13 20:42:44.986759] After preprocessing:  65 features
+[2023-09-13 20:42:44.987020] Features: 
+[2023-09-13 20:42:44.987754] Index(['N_1_objective', 'N_9_solution_value', 'N_14_incumbent_value',
+       'N_15_average_incumbent_value', 'N_20_solution_infeasibility',
+       'N_21_edge_mean', 'N_22_edge_min', 'N_23_edge_max', 'N_24_bias_mean',
+       'N_25_bias_min', 'N_26_bias_max', 'N_27_obj_cos_sim_mean',
+       'N_28_obj_cos_sim_min', 'N_29_obj_cos_sim_max', 'N_30_is_tight_mean',
+       'N_33_dual_solution_mean', 'N_34_dual_solution_min',
+       'N_36_scaled_age_mean', 'N_38_scaled_age_max', 'K_1_obj_coef',
+       'K_4_n_rows', 'K_5_rows_deg_mean', 'K_6_rows_deg_stddev',
+       'K_7_rows_deg_min', 'K_9_rows_pos_coefs_count',
+       'K_14_rows_neg_coefs_count', 'K_15_rows_neg_coefs_mean',
+       'K_16_rows_neg_coefs_stddev', 'K_17_rows_neg_coefs_min',
+       'K_18_rows_neg_coefs_max', 'K_21_pseudocost_up', 'K_22_pseudocost_down',
+       'K_23_pseudocost_ratio', 'K_24_pseudocost_sum',
+       'K_25_pseudocost_product', 'K_26_n_cutoff_up', 'K_27_n_cutoff_down',
+       'K_28_n_cutoff_up_ratio', 'K_29_n_cutoff_down_ratio',
+       'K_32_rows_dynamic_deg_min', 'K_34_rows_dynamic_deg_mean_ratio',
+       'K_35_rows_dynamic_deg_min_ratio', 'K_36_rows_dynamic_deg_max_ratio',
+       'K_37_coef_pos_rhs_ratio_min', 'K_38_coef_pos_rhs_ratio_max',
+       'K_41_pos_coef_pos_coef_ratio_min', 'K_42_pos_coef_pos_coef_ratio_max',
+       'K_48_neg_coef_neg_coef_ratio_max', 'K_49_active_coef_weight1_count',
+       'K_51_active_coef_weight1_mean', 'K_52_active_coef_weight1_stddev',
+       'K_53_active_coef_weight1_min', 'K_54_active_coef_weight1_max',
+       'K_57_active_coef_weight2_mean', 'K_58_active_coef_weight2_stddev',
+       'K_59_active_coef_weight2_min', 'K_60_active_coef_weight2_max',
+       'K_63_active_coef_weight3_mean', 'K_64_active_coef_weight3_stddev',
+       'K_65_active_coef_weight3_min', 'K_66_active_coef_weight3_max',
+       'K_69_active_coef_weight4_mean', 'K_70_active_coef_weight4_stddev',
+       'K_71_active_coef_weight4_min', 'K_72_active_coef_weight4_max'],
+      dtype='object')
+[2023-09-13 20:42:44.988543] Targets: 
+[2023-09-13 20:42:44.988758] Index(['Score'], dtype='object')

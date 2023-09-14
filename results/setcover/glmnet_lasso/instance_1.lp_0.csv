@@ -1,0 +1,2 @@
+model,seed,instance,nnodes,nlps,nlpiterations,nnodelps,ndivinglps,nsbs,b_cutoffs,b_domreds,stime,gap,status,mem_used,mem_total,branching_time,walltime,proctime,cpu_user_time,cpu_system_time
+glmnet_lasso,0,instance_1.lp,47,149,6727,69,80,0,0,0,2.630000,0.000000,optimal,40.222559,58.008478,0.030000,3.573326,2.904742,2.630000,0.280000
