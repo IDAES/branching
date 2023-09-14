@@ -5,7 +5,7 @@ Selin Bayramoglu, Georgia Institute of Technology
 
 Nick Sahinidis, Georgia Institute of Technology
 
-Python package for building sparse regression models to approximate the strong branching rule and using them for branching. These models are the lasso, and L0 and L1/L2 penalized linear regression.
+Python package to build sparse regression models of strong branching and use them for branching. These models are the lasso, and L0 and L1/L2 penalized linear regression.
 
 ### Copyright
 
